@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">insta_app_intern</string>
+
+    <array name="highersudy">
+        <item>Preparing for Higher study ??</item>
+        <item>Other</item>
+        <item>GATE</item>
+        <item>CAT</item>
+        <item>MPSC</item>
+        <item>UPSC</item>
+        <item>MSC</item>
+        <item>GMAT</item>
+        <item>GRE</item>
+        <item>SAT</item>
+        <item>TOFEL</item>
+        <item>BANKING</item>
+    </array>
+</resources>
